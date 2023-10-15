@@ -1,6 +1,6 @@
 # Shorts-Youtube
 
-# ![Pyramid](assets/code.png)
+## ![Pyramid](assets/code.png)
 
 SR No   | Project 
 --- | --- 
