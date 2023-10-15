@@ -2,5 +2,5 @@
 
 SR No   | Project 
 --- | --- 
-1 | [Key Word Finder](https://github.com/OWNER2PLUSAI/mini_python_projects/tree/main/Keyword_finder) 
-
+0 | [Pyramid](https://github.com/OWNER2PLUSAI/Shorts-Youtube/blob/main/K%20%2300%20Tricks.ipynb)
+1 | [Pyramid](https://github.com/OWNER2PLUSAI/Shorts-Youtube/blob/main/K%20%2301%20pyramid.ipynb)
